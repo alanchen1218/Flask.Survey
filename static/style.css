@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+.wrapper{
+	border: 3px solid black;
+	width: 400px;
+	height: 200px;
+}
+.main{
+    color: rgb(65, 131, 230);
+    border: 3px solid black;
+	width: 400px;
+	height: 300px;
+}
+h2{
+    margin-top: 10px
+}
